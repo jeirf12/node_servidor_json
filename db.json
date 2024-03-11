@@ -1,0 +1,53 @@
+{
+  "profesores": [
+    {
+      "nombre": "jhonfer",
+      "apellido": "Ruiz",
+      "materias": [
+        {
+          "nombre": "Node js"
+        },
+        {
+          "nombre": "Angular js"
+        },
+        {
+          "nombre": "React js"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Idrobo",
+      "promedio": 10
+    },
+    {
+      "nombre": "Angela",
+      "apellido": "Idrobo",
+      "promedio": 11
+    },
+    {
+      "nombre": "Ximena",
+      "apellido": "Idrobo",
+      "promedio": 12
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node js",
+      "duracion": 8,
+      "dificultad": "alta"
+    },
+    {
+      "nombre": "Angular js",
+      "duracion": 6,
+      "dificultad": "media"
+    },
+    {
+      "nombre": "React js",
+      "duracion": 5,
+      "dificultad": "baja"
+    }
+  ]
+}
